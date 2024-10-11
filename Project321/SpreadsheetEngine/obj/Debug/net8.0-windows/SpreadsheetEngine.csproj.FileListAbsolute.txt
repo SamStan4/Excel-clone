@@ -1,0 +1,11 @@
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.deps.json
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\bin\Debug\net8.0-windows\SpreadsheetEngine.pdb
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\refint\SpreadsheetEngine.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\SpreadsheetEngine.pdb
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\SpreadsheetEngine\obj\Debug\net8.0-windows\ref\SpreadsheetEngine.dll

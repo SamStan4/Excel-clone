@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\bin\Debug\net8.0\ExpressionTreeDemoApp.exe
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\bin\Debug\net8.0\ExpressionTreeDemoApp.deps.json
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\bin\Debug\net8.0\ExpressionTreeDemoApp.runtimeconfig.json
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\bin\Debug\net8.0\ExpressionTreeDemoApp.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\bin\Debug\net8.0\ExpressionTreeDemoApp.pdb
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.AssemblyInfo.cs
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\refint\ExpressionTreeDemoApp.dll
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.pdb
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ExpressionTreeDemoApp.genruntimeconfig.cache
+C:\Users\samue\Desktop\cpts321-sam_stanley-hws\Project321\ExpressionTreeDemoApp\obj\Debug\net8.0\ref\ExpressionTreeDemoApp.dll

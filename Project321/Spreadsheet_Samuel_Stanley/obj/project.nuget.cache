@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJcPVSOXW+DaG2zHWMQS4jBKMmOhATe0BsoDdGKsC/Qdi0dyGuECSSJLOHbtGt2tbC+BDxRv1dMVURkUl9KMPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Desktop\\cpts321-sam_stanley-hws\\Project321\\Spreadsheet_Samuel_Stanley\\Spreadsheet_Samuel_Stanley.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
